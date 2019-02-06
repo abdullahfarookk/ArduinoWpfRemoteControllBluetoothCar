@@ -1,0 +1,131 @@
+﻿<mui:ModernWindow x:Class="BluetoothSample.MainWindow"
+                  xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                  xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                  xmlns:mui="http://firstfloorsoftware.com/ModernUI"
+                  Title="Arduino Bluetooth"
+                  MinWidth="400"
+                  MinHeight="300"
+                  MaxWidth="500"
+                  MaxHeight="400"
+                  Style="{StaticResource BlankWindow}">
+    <Window.Resources>
+        <RoutedUICommand x:Key="UpCommand"></RoutedUICommand>
+        <RoutedUICommand x:Key="LeftCommand"></RoutedUICommand>
+        <RoutedUICommand x:Key="RightCommand"></RoutedUICommand>
+        <RoutedUICommand x:Key="DownCommand"></RoutedUICommand>
+    </Window.Resources>
+
+    <Window.CommandBindings>
+        <CommandBinding Command="{StaticResource UpCommand}"
+                        Executed="Up_button"></CommandBinding>
+        <CommandBinding Command="{StaticResource LeftCommand}"
+                        Executed="Left_button"></CommandBinding>
+        <CommandBinding Command="{StaticResource RightCommand}"
+                        Executed="Right_button"></CommandBinding>
+        <CommandBinding Command="{StaticResource DownCommand}"
+                        Executed="Down_button"></CommandBinding>
+
+    </Window.CommandBindings>
+
+    <Window.InputBindings>
+        <KeyBinding Command="{Binding Source={StaticResource UpCommand}}"
+                    Key="Up" />
+        <KeyBinding Command="{Binding Source={StaticResource LeftCommand}}"
+                    Key="Left" />
+        <KeyBinding Command="{Binding Source={StaticResource RightCommand}}"
+                    Key="Right" />
+        <KeyBinding Command="{Binding Source={StaticResource DownCommand}}"
+                    Key="Down" />
+    </Window.InputBindings>
+    <StackPanel
+        Orientation="Vertical"
+
+                >
+
+
+        <TextBlock Margin="0,20,0,0">Select one device:</TextBlock>
+        <StackPanel Orientation="Horizontal">
+            <ListBox x:Name="Devices"
+                     Width="195"
+                     Height="100"
+                     MaxWidth="200"
+                     MaxHeight="100"
+                     Margin="0,20,5,0"
+                     HorizontalAlignment="Left" />
+            <StackPanel Orientation="Vertical" VerticalAlignment="Center">
+                
+                <StackPanel Orientation="Horizontal" Margin="0,10,0,0" >
+                    <TextBlock Text="Distance "
+                               FontWeight="Bold"></TextBlock>
+                    <ProgressBar x:Name="DistanceBar"
+                                 Width="180"
+                                 Height="20"
+                                 Value="100"
+                                 Foreground="YellowGreen"
+                                 Background="White"></ProgressBar>
+                    <TextBlock x:Name="DistanceText" Height="20" Width="20" FontWeight="Bold" Margin="10,0,0,0"></TextBlock>
+                </StackPanel>
+                
+                <ProgressBar x:Name="Distance" Width="200"></ProgressBar>
+            </StackPanel>
+           
+        </StackPanel>
+        
+        <StackPanel Orientation="Horizontal">
+            <TextBlock Text="Status:   "
+                       Margin="0,5,0,0"
+                       FontSize="15"
+                       FontWeight="Bold"></TextBlock>
+            <Ellipse Height="20"
+                     Width="20"
+                     x:Name="Status"
+                     Fill="Red"></Ellipse>
+            <Button Content="Connect"
+                    Margin="20,0,0,0"
+                    Click="Connect_Clicked"
+                    FontSize="15"
+                    FontWeight="Bold"></Button>
+        </StackPanel>
+        <StackPanel Orientation="Vertical"
+                    HorizontalAlignment="Center"
+                    VerticalAlignment="Bottom">
+            <Button  Width="80"
+                     Margin="0,20,100,0"
+                     HorizontalAlignment="Right"
+                     Content="Up"
+                     Command="{Binding Source={StaticResource UpCommand}}"
+                     Click="Up_button">
+            </Button>
+            <StackPanel Orientation="Horizontal"
+                        HorizontalAlignment="Right">
+                <Button  Width="80"
+                         Margin="0,0,80,0"
+                         HorizontalAlignment="Right"
+                         Content="Left"
+                         Command="{Binding Source={StaticResource LeftCommand}}"
+                         Click="Left_button"/>
+                <Button  Width="80"
+                         Margin="0,0,20,0"
+                         HorizontalAlignment="Right"
+                         Content="Right"
+                         Command="{Binding Source={StaticResource RightCommand}}"
+                         Click="Right_button"/>
+            </StackPanel>
+            <Button  Width="80"
+                     Margin="0,0,100,0"
+                     HorizontalAlignment="Right"
+                     Content="Down"
+                     Command="{Binding Source={StaticResource DownCommand}}"
+                     Click="Down_button">
+            </Button>
+        </StackPanel>
+
+
+        <TextBlock x:Name="ResultValue"
+                   Margin="0,20,0,0"
+                   
+                   TextWrapping="Wrap">
+
+        </TextBlock>
+    </StackPanel>
+</mui:ModernWindow>

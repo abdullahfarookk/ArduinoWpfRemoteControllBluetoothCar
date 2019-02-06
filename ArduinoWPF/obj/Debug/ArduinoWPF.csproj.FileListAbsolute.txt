@@ -1,0 +1,196 @@
+c:\users\sunny\documents\visual studio 2017\Projects\ArduinoWPF\ArduinoWPF\obj\Debug\Views\ReceiverView.baml
+c:\users\sunny\documents\visual studio 2017\Projects\ArduinoWPF\ArduinoWPF\obj\Debug\Views\SenderView.baml
+c:\users\sunny\documents\visual studio 2017\Projects\ArduinoWPF\ArduinoWPF\obj\Debug\MainWindow.g.cs
+c:\users\sunny\documents\visual studio 2017\Projects\ArduinoWPF\ArduinoWPF\obj\Debug\Views\ReceiverView.g.cs
+c:\users\sunny\documents\visual studio 2017\Projects\ArduinoWPF\ArduinoWPF\obj\Debug\Views\SenderView.g.cs
+c:\users\sunny\documents\visual studio 2017\Projects\ArduinoWPF\ArduinoWPF\obj\Debug\App.g.cs
+c:\users\sunny\documents\visual studio 2017\Projects\ArduinoWPF\ArduinoWPF\obj\Debug\ArduinoWPF_MarkupCompile.cache
+c:\users\sunny\documents\visual studio 2017\Projects\ArduinoWPF\ArduinoWPF\bin\Debug\ArduinoWPF.exe.config
+c:\users\sunny\documents\visual studio 2017\Projects\ArduinoWPF\ArduinoWPF\bin\Debug\ArduinoWPF.exe
+c:\users\sunny\documents\visual studio 2017\Projects\ArduinoWPF\ArduinoWPF\bin\Debug\ArduinoWPF.pdb
+c:\users\sunny\documents\visual studio 2017\Projects\ArduinoWPF\ArduinoWPF\bin\Debug\FirstFloor.ModernUI.dll
+c:\users\sunny\documents\visual studio 2017\Projects\ArduinoWPF\ArduinoWPF\bin\Debug\GalaSoft.MvvmLight.dll
+c:\users\sunny\documents\visual studio 2017\Projects\ArduinoWPF\ArduinoWPF\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+c:\users\sunny\documents\visual studio 2017\Projects\ArduinoWPF\ArduinoWPF\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+c:\users\sunny\documents\visual studio 2017\Projects\ArduinoWPF\ArduinoWPF\bin\Debug\InTheHand.Net.Personal.dll
+c:\users\sunny\documents\visual studio 2017\Projects\ArduinoWPF\ArduinoWPF\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+c:\users\sunny\documents\visual studio 2017\Projects\ArduinoWPF\ArduinoWPF\bin\Debug\System.Windows.Interactivity.dll
+c:\users\sunny\documents\visual studio 2017\Projects\ArduinoWPF\ArduinoWPF\bin\Debug\FirstFloor.ModernUI.xml
+c:\users\sunny\documents\visual studio 2017\Projects\ArduinoWPF\ArduinoWPF\bin\Debug\GalaSoft.MvvmLight.pdb
+c:\users\sunny\documents\visual studio 2017\Projects\ArduinoWPF\ArduinoWPF\bin\Debug\GalaSoft.MvvmLight.xml
+c:\users\sunny\documents\visual studio 2017\Projects\ArduinoWPF\ArduinoWPF\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+c:\users\sunny\documents\visual studio 2017\Projects\ArduinoWPF\ArduinoWPF\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+c:\users\sunny\documents\visual studio 2017\Projects\ArduinoWPF\ArduinoWPF\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+c:\users\sunny\documents\visual studio 2017\Projects\ArduinoWPF\ArduinoWPF\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+c:\users\sunny\documents\visual studio 2017\Projects\ArduinoWPF\ArduinoWPF\bin\Debug\InTheHand.Net.Personal.xml
+c:\users\sunny\documents\visual studio 2017\Projects\ArduinoWPF\ArduinoWPF\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+c:\users\sunny\documents\visual studio 2017\Projects\ArduinoWPF\ArduinoWPF\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+c:\users\sunny\documents\visual studio 2017\Projects\ArduinoWPF\ArduinoWPF\obj\Debug\MainWindow.baml
+c:\users\sunny\documents\visual studio 2017\Projects\ArduinoWPF\ArduinoWPF\obj\Debug\ArduinoWPF.g.resources
+c:\users\sunny\documents\visual studio 2017\Projects\ArduinoWPF\ArduinoWPF\obj\Debug\ArduinoWPF.Properties.Resources.resources
+c:\users\sunny\documents\visual studio 2017\Projects\ArduinoWPF\ArduinoWPF\obj\Debug\ArduinoWPF.csproj.GenerateResource.Cache
+c:\users\sunny\documents\visual studio 2017\Projects\ArduinoWPF\ArduinoWPF\obj\Debug\ArduinoWPF.exe
+c:\users\sunny\documents\visual studio 2017\Projects\ArduinoWPF\ArduinoWPF\obj\Debug\ArduinoWPF.pdb
+c:\users\sunny\documents\visual studio 2017\Projects\ArduinoWPF\ArduinoWPF\obj\Debug\App.baml
+c:\users\sunny\documents\visual studio 2017\Projects\ArduinoWPF\ArduinoWPF\obj\Debug\ArduinoWPF.csprojResolveAssemblyReference.cache
+E:\ArduinoWPF\ArduinoWPF\bin\Debug\ArduinoWPF.exe.config
+E:\ArduinoWPF\ArduinoWPF\obj\Debug\ArduinoWPF.exe
+E:\ArduinoWPF\ArduinoWPF\obj\Debug\ArduinoWPF.pdb
+C:\Users\Umair\Desktop\ArduinoWPF\ArduinoWPF\bin\Debug\ArduinoWPF.exe.config
+C:\Users\Umair\Desktop\ArduinoWPF\ArduinoWPF\obj\Debug\ArduinoWPF.exe
+C:\Users\Umair\Desktop\ArduinoWPF\ArduinoWPF\obj\Debug\ArduinoWPF.pdb
+C:\Users\Umair\Desktop\ArduinoWPF\ArduinoWPF\bin\Debug\ArduinoWPF.exe
+C:\Users\Umair\Desktop\ArduinoWPF\ArduinoWPF\bin\Debug\ArduinoWPF.pdb
+C:\Users\Umair\Desktop\ArduinoWPF\ArduinoWPF\bin\Debug\FirstFloor.ModernUI.dll
+C:\Users\Umair\Desktop\ArduinoWPF\ArduinoWPF\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Umair\Desktop\ArduinoWPF\ArduinoWPF\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Umair\Desktop\ArduinoWPF\ArduinoWPF\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Umair\Desktop\ArduinoWPF\ArduinoWPF\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\Umair\Desktop\ArduinoWPF\ArduinoWPF\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Umair\Desktop\ArduinoWPF\ArduinoWPF\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Umair\Desktop\ArduinoWPF\ArduinoWPF\bin\Debug\FirstFloor.ModernUI.xml
+C:\Users\Umair\Desktop\ArduinoWPF\ArduinoWPF\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Umair\Desktop\ArduinoWPF\ArduinoWPF\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Umair\Desktop\ArduinoWPF\ArduinoWPF\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Umair\Desktop\ArduinoWPF\ArduinoWPF\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Umair\Desktop\ArduinoWPF\ArduinoWPF\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Umair\Desktop\ArduinoWPF\ArduinoWPF\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Umair\Desktop\ArduinoWPF\ArduinoWPF\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\Umair\Desktop\ArduinoWPF\ArduinoWPF\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Umair\Desktop\ArduinoWPF\ArduinoWPF\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Umair\Desktop\ArduinoWPF\ArduinoWPF\obj\Debug\ArduinoWPF.csprojResolveAssemblyReference.cache
+C:\Users\Umair\Desktop\ArduinoWPF\ArduinoWPF\obj\Debug\MainWindow.baml
+C:\Users\Umair\Desktop\ArduinoWPF\ArduinoWPF\obj\Debug\Views\ReceiverView.baml
+C:\Users\Umair\Desktop\ArduinoWPF\ArduinoWPF\obj\Debug\Views\SenderView.baml
+C:\Users\Umair\Desktop\ArduinoWPF\ArduinoWPF\obj\Debug\App.baml
+C:\Users\Umair\Desktop\ArduinoWPF\ArduinoWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Umair\Desktop\ArduinoWPF\ArduinoWPF\obj\Debug\Views\ReceiverView.g.cs
+C:\Users\Umair\Desktop\ArduinoWPF\ArduinoWPF\obj\Debug\Views\SenderView.g.cs
+C:\Users\Umair\Desktop\ArduinoWPF\ArduinoWPF\obj\Debug\App.g.cs
+C:\Users\Umair\Desktop\ArduinoWPF\ArduinoWPF\obj\Debug\ArduinoWPF_MarkupCompile.cache
+C:\Users\Umair\Desktop\ArduinoWPF\ArduinoWPF\obj\Debug\ArduinoWPF.g.resources
+C:\Users\Umair\Desktop\ArduinoWPF\ArduinoWPF\obj\Debug\ArduinoWPF.Properties.Resources.resources
+C:\Users\Umair\Desktop\ArduinoWPF\ArduinoWPF\obj\Debug\ArduinoWPF.csproj.GenerateResource.Cache
+G:\ArduinoWPF\ArduinoWPF\bin\Debug\ArduinoWPF.exe.config
+G:\ArduinoWPF\ArduinoWPF\bin\Debug\ArduinoWPF.exe
+G:\ArduinoWPF\ArduinoWPF\bin\Debug\ArduinoWPF.pdb
+G:\ArduinoWPF\ArduinoWPF\bin\Debug\FirstFloor.ModernUI.dll
+G:\ArduinoWPF\ArduinoWPF\bin\Debug\GalaSoft.MvvmLight.dll
+G:\ArduinoWPF\ArduinoWPF\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+G:\ArduinoWPF\ArduinoWPF\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+G:\ArduinoWPF\ArduinoWPF\bin\Debug\InTheHand.Net.Personal.dll
+G:\ArduinoWPF\ArduinoWPF\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+G:\ArduinoWPF\ArduinoWPF\bin\Debug\System.Windows.Interactivity.dll
+G:\ArduinoWPF\ArduinoWPF\bin\Debug\FirstFloor.ModernUI.xml
+G:\ArduinoWPF\ArduinoWPF\bin\Debug\GalaSoft.MvvmLight.pdb
+G:\ArduinoWPF\ArduinoWPF\bin\Debug\GalaSoft.MvvmLight.xml
+G:\ArduinoWPF\ArduinoWPF\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+G:\ArduinoWPF\ArduinoWPF\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+G:\ArduinoWPF\ArduinoWPF\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+G:\ArduinoWPF\ArduinoWPF\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+G:\ArduinoWPF\ArduinoWPF\bin\Debug\InTheHand.Net.Personal.xml
+G:\ArduinoWPF\ArduinoWPF\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+G:\ArduinoWPF\ArduinoWPF\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+G:\ArduinoWPF\ArduinoWPF\obj\Debug\ArduinoWPF.csprojResolveAssemblyReference.cache
+G:\ArduinoWPF\ArduinoWPF\obj\Debug\MainWindow.baml
+G:\ArduinoWPF\ArduinoWPF\obj\Debug\Views\ReceiverView.baml
+G:\ArduinoWPF\ArduinoWPF\obj\Debug\Views\SenderView.baml
+G:\ArduinoWPF\ArduinoWPF\obj\Debug\App.baml
+G:\ArduinoWPF\ArduinoWPF\obj\Debug\MainWindow.g.cs
+G:\ArduinoWPF\ArduinoWPF\obj\Debug\Views\ReceiverView.g.cs
+G:\ArduinoWPF\ArduinoWPF\obj\Debug\Views\SenderView.g.cs
+G:\ArduinoWPF\ArduinoWPF\obj\Debug\App.g.cs
+G:\ArduinoWPF\ArduinoWPF\obj\Debug\ArduinoWPF_MarkupCompile.cache
+G:\ArduinoWPF\ArduinoWPF\obj\Debug\ArduinoWPF.g.resources
+G:\ArduinoWPF\ArduinoWPF\obj\Debug\ArduinoWPF.Properties.Resources.resources
+G:\ArduinoWPF\ArduinoWPF\obj\Debug\ArduinoWPF.csproj.GenerateResource.Cache
+G:\ArduinoWPF\ArduinoWPF\obj\Debug\ArduinoWPF.exe
+G:\ArduinoWPF\ArduinoWPF\obj\Debug\ArduinoWPF.pdb
+C:\Users\Sunny\Desktop\ArduinoWPF\ArduinoWPF\bin\Debug\ArduinoWPF.exe.config
+C:\Users\Sunny\Desktop\ArduinoWPF\ArduinoWPF\bin\Debug\ArduinoWPF.exe
+C:\Users\Sunny\Desktop\ArduinoWPF\ArduinoWPF\bin\Debug\ArduinoWPF.pdb
+C:\Users\Sunny\Desktop\ArduinoWPF\ArduinoWPF\bin\Debug\FirstFloor.ModernUI.dll
+C:\Users\Sunny\Desktop\ArduinoWPF\ArduinoWPF\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\Sunny\Desktop\ArduinoWPF\ArduinoWPF\bin\Debug\FirstFloor.ModernUI.xml
+C:\Users\Sunny\Desktop\ArduinoWPF\ArduinoWPF\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\Sunny\Desktop\ArduinoWPF\ArduinoWPF\obj\Debug\MainWindow.baml
+C:\Users\Sunny\Desktop\ArduinoWPF\ArduinoWPF\obj\Debug\Views\ReceiverView.baml
+C:\Users\Sunny\Desktop\ArduinoWPF\ArduinoWPF\obj\Debug\Views\SenderView.baml
+C:\Users\Sunny\Desktop\ArduinoWPF\ArduinoWPF\obj\Debug\App.baml
+C:\Users\Sunny\Desktop\ArduinoWPF\ArduinoWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Sunny\Desktop\ArduinoWPF\ArduinoWPF\obj\Debug\Views\ReceiverView.g.cs
+C:\Users\Sunny\Desktop\ArduinoWPF\ArduinoWPF\obj\Debug\Views\SenderView.g.cs
+C:\Users\Sunny\Desktop\ArduinoWPF\ArduinoWPF\obj\Debug\App.g.cs
+C:\Users\Sunny\Desktop\ArduinoWPF\ArduinoWPF\obj\Debug\ArduinoWPF_MarkupCompile.cache
+C:\Users\Sunny\Desktop\ArduinoWPF\ArduinoWPF\obj\Debug\ArduinoWPF.g.resources
+C:\Users\Sunny\Desktop\ArduinoWPF\ArduinoWPF\obj\Debug\ArduinoWPF.Properties.Resources.resources
+C:\Users\Sunny\Desktop\ArduinoWPF\ArduinoWPF\obj\Debug\ArduinoWPF.csproj.GenerateResource.Cache
+C:\Users\Sunny\Desktop\ArduinoWPF\ArduinoWPF\obj\Debug\ArduinoWPF.exe
+C:\Users\Sunny\Desktop\ArduinoWPF\ArduinoWPF\obj\Debug\ArduinoWPF.pdb
+C:\Users\Sunny\Desktop\Session\ArduinoWPF\ArduinoWPF\bin\Debug\ArduinoWPF.exe.config
+C:\Users\Sunny\Desktop\Session\ArduinoWPF\ArduinoWPF\bin\Debug\ArduinoWPF.exe
+C:\Users\Sunny\Desktop\Session\ArduinoWPF\ArduinoWPF\bin\Debug\ArduinoWPF.pdb
+C:\Users\Sunny\Desktop\Session\ArduinoWPF\ArduinoWPF\bin\Debug\FirstFloor.ModernUI.dll
+C:\Users\Sunny\Desktop\Session\ArduinoWPF\ArduinoWPF\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\Sunny\Desktop\Session\ArduinoWPF\ArduinoWPF\bin\Debug\FirstFloor.ModernUI.xml
+C:\Users\Sunny\Desktop\Session\ArduinoWPF\ArduinoWPF\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\Sunny\Desktop\Session\ArduinoWPF\ArduinoWPF\obj\Debug\ArduinoWPF.csprojResolveAssemblyReference.cache
+C:\Users\Sunny\Desktop\Session\ArduinoWPF\ArduinoWPF\obj\Debug\MainWindow.baml
+C:\Users\Sunny\Desktop\Session\ArduinoWPF\ArduinoWPF\obj\Debug\Views\ReceiverView.baml
+C:\Users\Sunny\Desktop\Session\ArduinoWPF\ArduinoWPF\obj\Debug\Views\SenderView.baml
+C:\Users\Sunny\Desktop\Session\ArduinoWPF\ArduinoWPF\obj\Debug\App.baml
+C:\Users\Sunny\Desktop\Session\ArduinoWPF\ArduinoWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Sunny\Desktop\Session\ArduinoWPF\ArduinoWPF\obj\Debug\Views\ReceiverView.g.cs
+C:\Users\Sunny\Desktop\Session\ArduinoWPF\ArduinoWPF\obj\Debug\Views\SenderView.g.cs
+C:\Users\Sunny\Desktop\Session\ArduinoWPF\ArduinoWPF\obj\Debug\App.g.cs
+C:\Users\Sunny\Desktop\Session\ArduinoWPF\ArduinoWPF\obj\Debug\ArduinoWPF_MarkupCompile.cache
+C:\Users\Sunny\Desktop\Session\ArduinoWPF\ArduinoWPF\obj\Debug\ArduinoWPF.g.resources
+C:\Users\Sunny\Desktop\Session\ArduinoWPF\ArduinoWPF\obj\Debug\ArduinoWPF.Properties.Resources.resources
+C:\Users\Sunny\Desktop\Session\ArduinoWPF\ArduinoWPF\obj\Debug\ArduinoWPF.csproj.GenerateResource.Cache
+C:\Users\Sunny\Desktop\Session\ArduinoWPF\ArduinoWPF\obj\Debug\ArduinoWPF.exe
+C:\Users\Sunny\Desktop\Session\ArduinoWPF\ArduinoWPF\obj\Debug\ArduinoWPF.pdb
+D:\OneDrive\Project\Arduino\Session\ArduinoWPF\ArduinoWPF\bin\Debug\ArduinoWPF.exe.config
+D:\OneDrive\Project\Arduino\Session\ArduinoWPF\ArduinoWPF\bin\Debug\ArduinoWPF.exe
+D:\OneDrive\Project\Arduino\Session\ArduinoWPF\ArduinoWPF\bin\Debug\ArduinoWPF.pdb
+D:\OneDrive\Project\Arduino\Session\ArduinoWPF\ArduinoWPF\bin\Debug\FirstFloor.ModernUI.dll
+D:\OneDrive\Project\Arduino\Session\ArduinoWPF\ArduinoWPF\bin\Debug\InTheHand.Net.Personal.dll
+D:\OneDrive\Project\Arduino\Session\ArduinoWPF\ArduinoWPF\bin\Debug\FirstFloor.ModernUI.xml
+D:\OneDrive\Project\Arduino\Session\ArduinoWPF\ArduinoWPF\bin\Debug\InTheHand.Net.Personal.xml
+D:\OneDrive\Project\Arduino\Session\ArduinoWPF\ArduinoWPF\obj\Debug\ArduinoWPF.csprojResolveAssemblyReference.cache
+D:\OneDrive\Project\Arduino\Session\ArduinoWPF\ArduinoWPF\obj\Debug\MainWindow.baml
+D:\OneDrive\Project\Arduino\Session\ArduinoWPF\ArduinoWPF\obj\Debug\Views\ReceiverView.baml
+D:\OneDrive\Project\Arduino\Session\ArduinoWPF\ArduinoWPF\obj\Debug\Views\SenderView.baml
+D:\OneDrive\Project\Arduino\Session\ArduinoWPF\ArduinoWPF\obj\Debug\App.baml
+D:\OneDrive\Project\Arduino\Session\ArduinoWPF\ArduinoWPF\obj\Debug\MainWindow.g.cs
+D:\OneDrive\Project\Arduino\Session\ArduinoWPF\ArduinoWPF\obj\Debug\Views\ReceiverView.g.cs
+D:\OneDrive\Project\Arduino\Session\ArduinoWPF\ArduinoWPF\obj\Debug\Views\SenderView.g.cs
+D:\OneDrive\Project\Arduino\Session\ArduinoWPF\ArduinoWPF\obj\Debug\App.g.cs
+D:\OneDrive\Project\Arduino\Session\ArduinoWPF\ArduinoWPF\obj\Debug\ArduinoWPF_MarkupCompile.cache
+D:\OneDrive\Project\Arduino\Session\ArduinoWPF\ArduinoWPF\obj\Debug\ArduinoWPF.g.resources
+D:\OneDrive\Project\Arduino\Session\ArduinoWPF\ArduinoWPF\obj\Debug\ArduinoWPF.Properties.Resources.resources
+D:\OneDrive\Project\Arduino\Session\ArduinoWPF\ArduinoWPF\obj\Debug\ArduinoWPF.csproj.GenerateResource.Cache
+D:\OneDrive\Project\Arduino\Session\ArduinoWPF\ArduinoWPF\obj\Debug\ArduinoWPF.exe
+D:\OneDrive\Project\Arduino\Session\ArduinoWPF\ArduinoWPF\obj\Debug\ArduinoWPF.pdb
+D:\Installers\OneDrive\Project\Arduino\Session\ArduinoWPF\ArduinoWPF\bin\Debug\ArduinoWPF.exe.config
+D:\Installers\OneDrive\Project\Arduino\Session\ArduinoWPF\ArduinoWPF\bin\Debug\ArduinoWPF.exe
+D:\Installers\OneDrive\Project\Arduino\Session\ArduinoWPF\ArduinoWPF\bin\Debug\ArduinoWPF.pdb
+D:\Installers\OneDrive\Project\Arduino\Session\ArduinoWPF\ArduinoWPF\bin\Debug\FirstFloor.ModernUI.dll
+D:\Installers\OneDrive\Project\Arduino\Session\ArduinoWPF\ArduinoWPF\bin\Debug\InTheHand.Net.Personal.dll
+D:\Installers\OneDrive\Project\Arduino\Session\ArduinoWPF\ArduinoWPF\bin\Debug\FirstFloor.ModernUI.xml
+D:\Installers\OneDrive\Project\Arduino\Session\ArduinoWPF\ArduinoWPF\bin\Debug\InTheHand.Net.Personal.xml
+D:\Installers\OneDrive\Project\Arduino\Session\ArduinoWPF\ArduinoWPF\obj\Debug\ArduinoWPF.csprojResolveAssemblyReference.cache
+D:\Installers\OneDrive\Project\Arduino\Session\ArduinoWPF\ArduinoWPF\obj\Debug\MainWindow.baml
+D:\Installers\OneDrive\Project\Arduino\Session\ArduinoWPF\ArduinoWPF\obj\Debug\Views\ReceiverView.baml
+D:\Installers\OneDrive\Project\Arduino\Session\ArduinoWPF\ArduinoWPF\obj\Debug\Views\SenderView.baml
+D:\Installers\OneDrive\Project\Arduino\Session\ArduinoWPF\ArduinoWPF\obj\Debug\App.baml
+D:\Installers\OneDrive\Project\Arduino\Session\ArduinoWPF\ArduinoWPF\obj\Debug\MainWindow.g.cs
+D:\Installers\OneDrive\Project\Arduino\Session\ArduinoWPF\ArduinoWPF\obj\Debug\Views\ReceiverView.g.cs
+D:\Installers\OneDrive\Project\Arduino\Session\ArduinoWPF\ArduinoWPF\obj\Debug\Views\SenderView.g.cs
+D:\Installers\OneDrive\Project\Arduino\Session\ArduinoWPF\ArduinoWPF\obj\Debug\App.g.cs
+D:\Installers\OneDrive\Project\Arduino\Session\ArduinoWPF\ArduinoWPF\obj\Debug\ArduinoWPF_MarkupCompile.cache
+D:\Installers\OneDrive\Project\Arduino\Session\ArduinoWPF\ArduinoWPF\obj\Debug\ArduinoWPF.g.resources
+D:\Installers\OneDrive\Project\Arduino\Session\ArduinoWPF\ArduinoWPF\obj\Debug\ArduinoWPF.Properties.Resources.resources
+D:\Installers\OneDrive\Project\Arduino\Session\ArduinoWPF\ArduinoWPF\obj\Debug\ArduinoWPF.csproj.GenerateResource.Cache
+D:\Installers\OneDrive\Project\Arduino\Session\ArduinoWPF\ArduinoWPF\obj\Debug\ArduinoWPF.csproj.CoreCompileInputs.cache
+D:\Installers\OneDrive\Project\Arduino\Session\ArduinoWPF\ArduinoWPF\obj\Debug\ArduinoWPF.exe
+D:\Installers\OneDrive\Project\Arduino\Session\ArduinoWPF\ArduinoWPF\obj\Debug\ArduinoWPF.pdb
